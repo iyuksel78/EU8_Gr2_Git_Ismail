@@ -4,5 +4,6 @@ public class LoginTest_Ismail {
         System.out.println("AC1 testing with valid credentials is passed");
         System.out.println("AC2 testing with valid credentials is passed");
         System.out.println("first change from remote");
+        System.out.println("AC3 is completed and project updated");
     }
 }
